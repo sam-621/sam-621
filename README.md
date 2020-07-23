@@ -1,5 +1,6 @@
 # Rogelio Samuel<-->@Rogeliosamuel21
-Im a programmer who is always learning, improving and practice, open to work with other people, and also I like to teach what I know :)
+Im a programmer who is always learning, improving and practice, open to work with other people, and also I like to teach what I know :).
+Everything I know about programming is from the official documentation of the technologies, YouTube tutorials(English and Spanish), blogs(English, Spanish)
 
 ## :dart: I’m currently working on
 - :speech_balloon: A blog [github repo](https://github.com/rogeliosamuel621/blog)
@@ -11,9 +12,6 @@ Im a programmer who is always learning, improving and practice, open to work wit
 ## 📫 How to reach me:
 - [Twitter](https://twitter.com/rogeliosamuel21)
 - [Mail](https://rogeliosamuel621@gmail.com)
-
-## How i've been learning
-I started learning with youtube videos, i learned the basic concepts with C++, then i started to create graphic interfaces with java, Also learned from youtube
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
