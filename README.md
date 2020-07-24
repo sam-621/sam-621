@@ -1,5 +1,6 @@
 # Rogelio Samuel<-->@Rogeliosamuel21
 ```Im a programmer who is always learning, improving and practice, open to work with other people, and also I like to teach what I know :).```
+
 Everything I know about programming is from the official documentation of the technologies, YouTube tutorials(English and Spanish) and blogs(English, Spanish)
 
 ## :dart: I’m currently working on
