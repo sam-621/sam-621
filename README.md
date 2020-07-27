@@ -5,7 +5,7 @@ Everything I know about programming is from the official documentation of the te
 
 ## :dart: I’m currently working on
 - :speech_balloon: A blog [Github repo](https://github.com/rogeliosamuel621/blog)
-- :dizzy: ExploreSpace [Github repo] (https://github.com/rogeliosamuel621/ExploreSpace)
+- :dizzy: ExploreSpace [Github repo](https://github.com/rogeliosamuel621/ExploreSpace)
 
 ## :green_book: I’m currently learning
 - Reactjs
