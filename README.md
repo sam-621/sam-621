@@ -9,7 +9,6 @@ Everything I know about programming is from the official documentation of the te
 
 ## :green_book: I’m currently learning
 - Reactjs
-- Typescript
 
 ## 📫 How to reach me:
 - [Twitter](https://twitter.com/rogeliosamuel21)
