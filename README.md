@@ -4,7 +4,7 @@
 Everything I know about programming is from the official documentation of the technologies, YouTube tutorials(English and Spanish) and blogs(English, Spanish)
 
 ## :dart: I’m currently working on
-- :dizzy: ExploreSpace [Github repo](https://github.com/rogeliosamuel621/ExploreSpace)
+- :dizzy: ExploreSpace social media [Github repo](https://github.com/rogeliosamuel621/ExploreSpace)
 - :open_file_folder: My portfolio [Github reop](https://github.com/rogeliosamuel621/Portfolio)
 
 ## :green_book: I’m currently learning
