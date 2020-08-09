@@ -5,7 +5,7 @@ Everything I know about programming is from the official documentation of the te
 
 ## :dart: I’m currently working on
 - :dizzy: ExploreSpace-API [Github repo](https://github.com/rogeliosamuel621/ExploreSpace)
-- :open_file_folder: My portfolio [Github reop](https://github.com/rogeliosamuel621/Portfolio)
+- :open_file_folder: My portfolio [Github repo](https://github.com/rogeliosamuel621/Portfolio)
 
 ## :green_book: I’m currently learning
 - Reactjs
