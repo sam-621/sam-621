@@ -4,8 +4,8 @@
 Everything I know about programming is from the official documentation of the technologies, YouTube tutorials(English and Spanish) and blogs(English, Spanish)
 
 ## :dart: I’m currently working on
-- :dizzy: SocialMedia [Github repo](https://github.com/rogeliosamuel621/Twitter-Clone-Frontend)
-- :open_file_folder: My portfolio [Github repo](https://github.com/rogeliosamuel621/Portfolio)
+- :dizzy: SocialMedia-Frontend [Github repo](https://github.com/rogeliosamuel621/SocialMedia-Frontend)
+- :dizzy: SocialMedia-API [Github repo](https://github.com/rogeliosamuel621/Social-Media-API)
 
 ## :green_book: I’m currently learning
 - Reactjs
