@@ -1,11 +1,21 @@
 # Rogelio Samuel<-->@Rogeliosamuel21
 ```Im a programmer who is always learning, improving and practice, open to work with other people, and also I like to teach what I know :).```
 
-Everything I know about programming is from the official documentation of the technologies, YouTube tutorials(English and Spanish) and blogs(English, Spanish)
+Here you are going to find my projects and experiments. Most of this projects were made just for practice.
+
+## :computer: I work with
+- Node.js with Typescript
+- MySQL
+- Reactjs
+
+## :hammer: Tools
+- Postman
+- Commands line
+- Git & GitHub
 
 ## :dart: I’m currently working on
-- :dizzy: SocialMedia-Frontend [Github repo](https://github.com/rogeliosamuel621/SocialMedia-Frontend)
-- :dizzy: SocialMedia-API [Github repo](https://github.com/rogeliosamuel621/Social-Media-API)
+- SocialMedia-Frontend [Github repo](https://github.com/rogeliosamuel621/SocialMedia-Frontend)
+- SocialMedia-API [Github repo](https://github.com/rogeliosamuel621/Social-Media-API)
 
 ## :green_book: I’m currently learning
 - Reactjs
