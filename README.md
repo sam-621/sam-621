@@ -14,8 +14,8 @@ Here you are going to find my projects and experiments. Most of this projects we
 - Git & GitHub
 
 ## :dart: I’m currently working on
-- SocialMedia-Frontend [Github repo](https://github.com/rogeliosamuel621/SocialMedia-Frontend)
-- SocialMedia-API [Github repo](https://github.com/rogeliosamuel621/Social-Media-API)
+- AuthApp [Github repo](https://github.com/rogeliosamuel621/AuthApp)
+- AuthApp-API [Github repo](https://github.com/rogeliosamuel621/Authentication-App-API)
 
 ## :green_book: I’m currently learning
 - Reactjs
