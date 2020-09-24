@@ -5,7 +5,7 @@ Here you are going to find my projects and experiments. Most of this projects we
 
 ## :computer: I work with
 - Node.js with Typescript
-- MySQL
+- MySQL | MongoDB
 - Reactjs
 
 ## :hammer: Tools
