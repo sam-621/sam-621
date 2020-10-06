@@ -4,7 +4,7 @@
 Here you are going to find my projects and experiments. Most of this projects were made just for practice.
 
 ## :computer: I work with
-- Node.js with Typescript
+- Node.js with Javascript
 - MySQL | MongoDB
 - Reactjs
 
