@@ -7,19 +7,17 @@ Here you are going to find my projects and experiments. Most of this projects we
 - Node.js with Javascript
 - MySQL | MongoDB
 - Reactjs
-
-## :hammer: Tools
+- Test with jest && supertest
+- Ubuntu terminal with oh my-zsh
+- Git & Github
 - Postman
-- Commands line
-- Git & GitHub
 
 ## :dart: I’m currently working on
-- AuthApp [Github repo](https://github.com/rogeliosamuel621/AuthApp)
-- AuthApp-API [Github repo](https://github.com/rogeliosamuel621/Authentication-App-API)
+- SocialMedia [Github repo](https://github.com/rogeliosamuel621/Social-Media)
+- SocialMedia API [Github repo](https://github.com/rogeliosamuel621/The-Social-Media-API)
 
 ## :green_book: I’m currently learning
-- Reactjs
-- Node with Typescript
+- Terminal
 
 ## 📫 How to reach me:
 - [Twitter](https://twitter.com/rogeliosamuel21)
