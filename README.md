@@ -13,8 +13,7 @@ Here you are going to find my projects and experiments. Most of this projects we
 - Postman
 
 ## :dart: I’m currently working on
-- SocialMedia [Github repo](https://github.com/rogeliosamuel621/Social-Media)
-- SocialMedia API [Github repo](https://github.com/rogeliosamuel621/The-Social-Media-API)
+- Portfolio [Github repo](https://github.com/rogeliosamuel621/Portfolio)
 
 ## :green_book: I’m currently learning
 - Terminal
