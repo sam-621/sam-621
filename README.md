@@ -1,5 +1,5 @@
 # Rogelio Samuel<-->@Rogeliosamuel21
-```Im a programmer who is always learning, improving and practice, open to work with other people, and also I like to teach what I know :).```
+```Backend developer. Node, React, MySQL | MongoDB. Always learning and open to working with other people.```
 
 Here you are going to find my projects and experiments. Most of this projects were made just for practice.
 
