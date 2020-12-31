@@ -13,7 +13,7 @@ Here you are going to find my projects and experiments. Most of this projects we
 - Postman
 
 ## :dart: I’m currently working on
-- Portfolio [Github repo](https://github.com/rogeliosamuel621/Portfolio)
+- Thrillo [Github repo](https://github.com/rogeliosamuel621/Thrillo/tree/develop)
 
 ## :green_book: I’m currently learning
 - Terminal
