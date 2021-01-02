@@ -1,8 +1,6 @@
 # Rogelio Samuel<-->@Rogeliosamuel21
 ```Backend developer. Node, React, MySQL | MongoDB. Always learning and open to working with other people.```
 
-![Profile views](https://gpvc.arturio.dev/rogeliosamuel621) [![Commits Badge](https://badges.pufler.dev/commits/monthly/rogeliosamuel621)](https://badges.pufler.dev)
-
 ## :computer: I work with
 - Node.js with Javascript
 - MySQL | MongoDB
@@ -16,7 +14,7 @@
 - Thrillo [Github repo](https://github.com/rogeliosamuel621/Thrillo/tree/develop)
 
 ## :green_book: I’m currently learning
-- Terminal
+- AWS
 
 ## 📫 How to reach me:
 - [Twitter](https://twitter.com/rogeliosamuel21)
