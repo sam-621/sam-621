@@ -15,7 +15,7 @@
 - E-commerce [Github repo](https://github.com/rogeliosamuel621/E-commerce)
 
 ## :green_book: I’m currently learning
-- AWS
+- Typescript
 
 ## 📫 How to reach me:
 - [Twitter](https://twitter.com/rogeliosamuel21)
