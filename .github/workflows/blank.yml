@@ -32,8 +32,8 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: "" # List of comma separated languages to ignore
           plugin_languages_skipped: "" # List of comma separated repositories to skip
-          plugin_projects: yes
-          plugin_projects_limit: 4
+          plugin_posts: yes
+          plugin_posts_source: "rogeliosamuel621"
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
