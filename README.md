@@ -10,10 +10,6 @@
 - Git & Github
 - Postman
 
-## :dart: I’m currently working on
-- Thrillo [Github repo](https://github.com/rogeliosamuel621/Thrillo/tree/develop)
-- E-commerce [Github repo](https://github.com/rogeliosamuel621/E-commerce)
-
 ## :green_book: I’m currently learning
 - Typescript
 
