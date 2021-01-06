@@ -33,7 +33,7 @@ jobs:
           plugin_languages_ignored: "" # List of comma separated languages to ignore
           plugin_languages_skipped: "" # List of comma separated repositories to skip
           plugin_posts: yes
-          plugin_posts_source: "rogeliosamuel621"
+          plugin_posts_source: "https://dev.to/rogeliosamuel621"
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
