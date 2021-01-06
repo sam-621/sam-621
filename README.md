@@ -20,6 +20,8 @@
 ## 📫 How to reach me:
 - [Twitter](https://twitter.com/rogeliosamuel21)
 - [Mail](https://rogeliosamuel621@gmail.com)
+
+![Metrics](https://github.com/rogeliosamuel621/rogeliosamuel621/blob/master/github-metrics.svg)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
