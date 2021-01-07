@@ -1,7 +1,8 @@
 # Rogelio Samuel <--> [@rogeliosamuel21](https://twitter.com/rogeliosamuel21)
 
 ## :computer: I work with
-![](https://img.shields.io/badge/-Typescript-black?logo=typescript&style=for-the-badge)
+
+![](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=for-the-badge) ![](https://img.shields.io/badge/-Javascrip-black?logo=javascript&style=for-the-badge) ![](https://img.shields.io/badge/-Typescript-black?logo=typescript&style=for-the-badge) ![](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=for-the-badge) ![](https://img.shields.io/badge/-mongoDB-black?logo=mongodb&style=for-the-badge) ![](https://img.shields.io/badge/-Reactjs-black?logo=react&style=for-the-badge) ![](https://img.shields.io/badge/-Jest-black?logo=jest&style=for-the-badge) ![](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge)
 
 - Node.js with Javascript
 - MySQL | MongoDB
