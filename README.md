@@ -10,10 +10,7 @@
 <a href="https://dev.to/rogeliosamuel621" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=for-the-badge&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 ## Stats
-<a href="https://github.com/AVS1508" style="display: flex;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeliosamuel621&show_icons=true&include_all_commits=true&count_private=true&hide=contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeliosamuel621&layout=compact"/>
-</a>
+![All Stats](https://github-readme-stats.vercel.app/api?username=rogeliosamuel621&show_icons=true&include_all_commits=true&count_private=true&hide=contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogeliosamuel621&layout=compact)
 
 <!--
 - 🔭 I’m currently working on ...
