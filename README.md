@@ -1,6 +1,8 @@
 # Rogelio Samuel <--> [@rogeliosamuel21](https://twitter.com/rogeliosamuel21)
 
 ## :computer: I work with
+![](https://img.shields.io/badge/-Typescript-black?logo=typescript&style=for-the-badge)
+
 - Node.js with Javascript
 - MySQL | MongoDB
 - Reactjs
