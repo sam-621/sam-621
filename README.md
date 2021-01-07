@@ -9,10 +9,6 @@
 - Git & Github
 - Postman
 
-## 📫 How to reach me:
-- [Twitter](https://twitter.com/rogeliosamuel21)
-- [Mail](https://rogeliosamuel621@gmail.com)
-
 ## Stats
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=rogeliosamuel621&show_icons=true&theme=dark" alt="Rogelio Samuel stats">
