@@ -10,9 +10,6 @@
 - Git & Github
 - Postman
 
-## :green_book: I’m currently learning
-- Typescript
-
 ## 📫 How to reach me:
 - [Twitter](https://twitter.com/rogeliosamuel21)
 - [Mail](https://rogeliosamuel621@gmail.com)
