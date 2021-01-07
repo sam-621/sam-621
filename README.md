@@ -1,5 +1,4 @@
-# Rogelio Samuel<-->@Rogeliosamuel21
-```Backend developer. Node, React, MySQL | MongoDB. Always learning and open to working with other people. :)```
+# Rogelio Samuel <--> [@rogeliosamuel21](https://twitter.com/rogeliosamuel21)
 
 ## :computer: I work with
 - Node.js with Javascript
