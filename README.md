@@ -17,9 +17,11 @@
 - [Twitter](https://twitter.com/rogeliosamuel21)
 - [Mail](https://rogeliosamuel621@gmail.com)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rogeliosamuel621&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogeliosamuel621&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Stats
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rogeliosamuel621&show_icons=true&theme=dark" alt="Rogelio Samuel stats">
+    <img style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeliosamuel621&layout=compact" alt="Rogelio Samuel lenguajes stats">
+</div>
 
 <!--
 - 🔭 I’m currently working on ...
