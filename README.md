@@ -10,10 +10,7 @@
 - Postman
 
 ## Stats
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rogeliosamuel621&show_icons=true&theme=dark" alt="Rogelio Samuel stats">
-    <img style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeliosamuel621&layout=compact" alt="Rogelio Samuel lenguajes stats">
-</div>
+![All Stats](https://github-readme-stats.vercel.app/api?username=rogeliosamuel621&show_icons=true&include_all_commits=true&count_private=true&hide=contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogeliosamuel621&layout=compact)
 
 <!--
 - 🔭 I’m currently working on ...
