@@ -11,7 +11,7 @@
 <a href="https://twitter.com/rogeliosamuel21" target="_blank"><img src="https://img.shields.io/badge/-@rogeliosamuel21-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/rogeliosamuel21" alt="DEV.to"></a>
 
 ## Stats
-![All Stats](https://github-readme-stats.vercel.app/api?username=sam-621&show_icons=true&include_all_commits=true&count_private=true&hide=contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogeliosamuel621&layout=compact)
+![All Stats](https://github-readme-stats.vercel.app/api?username=sam-621&show_icons=true&include_all_commits=true&count_private=true&hide=contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-621&layout=compact)
 
 <!--
 - 🔭 I’m currently working on ...
