@@ -1,4 +1,4 @@
-# Rogelio Samuel <--> [@rogeliosamuel21](https://twitter.com/rogeliosamuel21)
+# Rogelio Samuel <--> [@rsam_621](https://twitter.com/rsam_621)
 
 ## :computer: I work with
 
