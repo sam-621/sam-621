@@ -1,4 +1,6 @@
-# Rogelio Samuel <--> [@rsam_621](https://twitter.com/rsam_621)
+# Rogelio Samuel  <!-- [@rsam_621](https://twitter.com/rsam_621) -->
+
+As a software developer i design, develop and deliver software products to improve the world with technology.
 
 ## :computer: I work with
 
