@@ -13,7 +13,7 @@ As a software developer i design, develop and deliver software products to impro
 
 ## Stats
 <div style="display: flex;">
-  <a href="https://github.com/macs15">
+  <a href="https://github.com/sam-621">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sam-621&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-621&layout=compact&theme=dark"/>
 </div>
